@@ -179,6 +179,10 @@ Plug 'skywind3000/asyncrun.vim'
 
 " -- tmp plugins below
 
+Plug 'yuezk/vim-js'
+Plug 'HerringtonDarkholme/yats.vim'
+Plug 'maxmellon/vim-jsx-pretty'
+
 
 call plug#end()
 
